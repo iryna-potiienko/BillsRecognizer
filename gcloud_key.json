@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bills-recogniser",
+  "private_key_id": "30923d878766a1d1ec8670f25b3b5ceafab9e759",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCdblcQhRvL/M18\nSgwwc7EkwOENU8Cwg46MFgdOnNZ4xIZR/YL++M3QDoKWLKn/OZDqMl5H9f8A88uq\nUEvJWJ27KXi2PCc1jr2RoP4yAyeO17yz0N79tL+W9l37htlKeetltDobHK5tHMfq\nASwJC5huFNUFBJVZeavIvfyUSJ+xy6iZDhjF6pSteSLfg9oEuVW9GhDyA3llfYHu\nLc0FnwvQrCFwZn2Dmj8nxIGyOdOHrGsV6tN0o3xjpAPZlH8PQTorn1d5vrPgm28i\nImg2kBu2PjMglWV+GKB5x8reL8/htYsfZ/a3vIaaQ1k5Q85xB/r79GkUd61VmszV\nezNyz3TNAgMBAAECggEACkIq5TYvQgMWpr8yfSPEysbQw2wONdJUwxcaYcqBhTwV\nHpmc5B11V9XiN4PwjeOD6Gbg0uKaO8cnIdF6psOh/5Sru4A+89P50VgCyGKBPOMc\n9kCpjzGsfFtQc3fth9da+fUdBjA/w3dpJXvvESXSyHWODfYm/z4Y7gtHPqhe05h+\nFsZ3C8iibClrVVUnB6VJQhwvPycxIGa/SAkXcORh7pJIVniN41DZ/XsS2d3rcHsX\nnXyLJRSPigGSW4fPpL+47Zrm7BIxS1K4vPLmWkCkQ1zOo5gch6CEBknzcrDNn7Ja\nQ+CTj9k4qJQLs3fT3iZYvjnpzBpjpSQX46cW9PWYtwKBgQDOvoaXYATHapLNDFih\nAIi0TVSn30zLr8JaBAIeNxMffqrMHiR18AO3UKA75Eql2DXB/NnHFBTMRVr9R9v/\n3lIQXEUqoO3iYazmp/qMoUGROT8zVijQX5fUszi8aZDpgQux9h6Wsi5fU0o6Z3iQ\nxY8hq1fJAnPlNK8TaDOjE2lszwKBgQDC8Cqo24+lltV18N99L+6ECgvEDRUTs+Fc\nUhhKqvL7KOY2jcLNaBUtsQMaQdLs62hjOdj9pylfL99wTt7hxNv/+lgD9xyRgJv7\nzacD8qSuwWPyyc9GwVgVXwiF63LpGurkYyyTGa4iX6igPg4PiuiQoDX+/n26MHZo\nbMVxvLtDowKBgQCuHbOIZSthLxY3boBuB98Zyk7TmrI4kOtjmCCYhdWrHqiFg5U9\nZkga6OIpzpg3mCGeIG7gxL7HUlnRGeXkVb5TXQI7ZpExqQVOtIXETkLEJaxedd+l\nrfxW/CF6PIX4wd+xnxAf5iw7yA+ppF7bviZPOtiRx2kHzhjshUOHwd917QKBgQCy\n5A9h8kt6nFa76xZNHeV2inmNqqvC7vpK7JOaQhLFZh0Nxz4TngaBbcX5HJriDI45\nMObur66Jybb0q4xiB3QVDroiuW0gIbQDehBg0RVLwfFk5soullOtGQ8LRqynOqqA\neHp5a8GfjcWDeC8TGFigEEY9AXKDoOGoptjyrU30nQKBgQCXhiLqo7c2N8Jo40UO\n5ViRYTsaiE4z5nUGXns1k1jqP1T4gFjxzypE5FgEL0HxNjmc4uf0j3W3y0jgRL3G\nd52MVuLMm0yqw5j86fGPLEXQawAtjAbIgsu+2VN/e57ZZ2REY2hQVWlI/A4fFGmn\n5hOhEuEkxcf9nyRFmtdAeugvkg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "for-bills@bills-recogniser.iam.gserviceaccount.com",
+  "client_id": "111726459003241494868",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/for-bills%40bills-recogniser.iam.gserviceaccount.com"
+}
